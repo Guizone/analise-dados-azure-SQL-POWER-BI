@@ -1,0 +1,11 @@
+# Dados brutos (baixe do UCI; veja data/README.md)
+data/*.csv
+data/*.zip
+
+# Power BI: arquivos locais
+**/.pbi/localSettings.json
+**/.pbi/cache.abf
+
+# Sistema
+.DS_Store
+Thumbs.db
